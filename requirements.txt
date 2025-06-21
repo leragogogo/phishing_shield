@@ -1,0 +1,16 @@
+# Core packages
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+
+# Text preprocessing
+nltk==3.8.1
+
+# Command-line interface
+click==8.1.7
+
+# Explainability
+shap==0.45.1
+
+# Optional: for saving models
+joblib==1.4.2
