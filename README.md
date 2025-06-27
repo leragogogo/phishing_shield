@@ -15,7 +15,7 @@ Trained on labeled email text and powered by a Random Forest classifier.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/phishing_shield.git
+git clone https://github.com/leragogogo/phishing_shield.git
 cd phishing_shield
 ```
 
